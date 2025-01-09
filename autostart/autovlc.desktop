@@ -1,0 +1,7 @@
+[Desktop Entry]
+Name=Start rpi-hello
+Exec=/home/seeed/imx500_vlc.sh
+Terminal=true
+Type=Application
+Categories=Utility;Application;  
+StartupNotify=true
